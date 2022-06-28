@@ -1,7 +1,8 @@
 # JOGO DA MEMÓRIA
 
 ### Tecnologias utilizadas
- - HTML
+  - BORA JOGAR? https://programadorwes.github.io/Jogo_da_memoria/ 
+  - HTML
   - CSS3
    - JAVASCRIPT
 
